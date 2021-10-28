@@ -140,6 +140,15 @@
   dependencies:
     tslib "^2.2.0"
 
+"@angular/cdk@12.2.12":
+  version "12.2.12"
+  resolved "http://localhost:4873/@angular%2fcdk/-/cdk-12.2.12.tgz#61dda37d8900275790da623c1f83daa1e859c795"
+  integrity sha512-AK+74JZP95BDj9OJ1YUaRqPXkgs+oadTk7z+8omu1RcvDoUivouKxgODCQX5jI7rZeQIlnV49hEgBne07hYk4A==
+  dependencies:
+    tslib "^2.2.0"
+  optionalDependencies:
+    parse5 "^5.0.0"
+
 "@angular/cli@~12.2.12":
   version "12.2.12"
   resolved "http://localhost:4873/@angular%2fcli/-/cli-12.2.12.tgz#ce4eeb8889eecb51a1a2af4fb69d3d2ce11728dd"
@@ -210,6 +219,13 @@
   version "12.2.12"
   resolved "http://localhost:4873/@angular%2fforms/-/forms-12.2.12.tgz#82c6d03d58406f7243ce6a2c5b6f6026b6b084d0"
   integrity sha512-qZKN1igKaeoFqs7ETiVOBJz4KZo9SmDuUrTbkylrYe9I6wHOsmjZSW49M4Lq5dsczl12kTxc3m83RIsRPZAw6Q==
+  dependencies:
+    tslib "^2.2.0"
+
+"@angular/material@12.2.12":
+  version "12.2.12"
+  resolved "http://localhost:4873/@angular%2fmaterial/-/material-12.2.12.tgz#66add3fb649422128b3273c10b9b7cce2f77e0cf"
+  integrity sha512-Fgpffplmd3KfoK9Ms34jYXRaqFYLbgXdGl250Acg7fV16LN1KTOyYm2Qs+FQuqyhuXfhePPt6Srh7VcGTLT4+g==
   dependencies:
     tslib "^2.2.0"
 
@@ -5331,6 +5347,11 @@ parse5-sax-parser@^6.0.1:
   dependencies:
     parse5 "^6.0.1"
 
+parse5@^5.0.0:
+  version "5.1.1"
+  resolved "http://localhost:4873/parse5/-/parse5-5.1.1.tgz#f68e4e5ba1852ac2cadc00f4555fff6c2abb6178"
+  integrity sha512-ugq4DFI0Ptb+WWjAdOK16+u/nHfiIrcE+sh8kZMaM0WllQKLI9rOUq6c2b7cwPkXdzfQESqvoqK6ug7U/Yyzug==
+
 parse5@^6.0.1:
   version "6.0.1"
   resolved "http://localhost:4873/parse5/-/parse5-6.0.1.tgz#e1a1c085c569b3dc08321184f19a39cc27f7c30b"
@@ -6048,6 +6069,11 @@ postcss@^8.2.15, postcss@^8.3.5, postcss@^8.3.7:
     nanoid "^3.1.30"
     picocolors "^1.0.0"
     source-map-js "^0.6.2"
+
+prettier@2.4.1:
+  version "2.4.1"
+  resolved "http://localhost:4873/prettier/-/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA==
 
 pretty-bytes@^5.3.0:
   version "5.6.0"
